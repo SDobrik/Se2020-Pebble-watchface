@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Dobrik",
+    "longName": "Software Engineering 2020",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Watchface2.png",
+                "name": "SEXX_BACK",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "SEXX",
+    "uuid": "7503502c-ead8-4bbe-88b7-0ea0d8e3d119",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
